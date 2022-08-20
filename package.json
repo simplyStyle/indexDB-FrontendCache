@@ -1,6 +1,6 @@
 {
   "name": "indexdb-frontendcache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple and easy to use timing task based on indexdb",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -13,7 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/swh4399/indexDB-FrontendCache.git"
   },
-  "keywords": [],
+  "keywords": [
+    "indexDB",
+    "indexdb",
+    "frontendCache",
+    "cache"
+  ],
   "author": "swh",
   "license": "ISC",
   "bugs": {
